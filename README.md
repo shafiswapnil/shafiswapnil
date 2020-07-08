@@ -1,4 +1,4 @@
-### Hello there 😊
+### Hi there 👋
 
 Thanks for visiting me. I love web development. But nowadays I feel like I should work with Software Development more like, Algorithms, Data Structures, and problem-solving stuff.
 
