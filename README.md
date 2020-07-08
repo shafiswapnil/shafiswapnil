@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Thanks for visiting me. I love web development. But nowadays I feel like I should work with Software Development more like, Algorithms, Data Structures, and problem-solving stuff.
+
 <!--
 **shafiswapnil/shafiswapnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
