@@ -68,14 +68,14 @@ I'm a **Technical Operations Lead & AI Product Engineer** based in **Dhaka, Bang
 
 ### 📊 GitHub Activity
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiswapnil&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shafiswapnil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafiswapnil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="40%" />
 </p>
 
 ---
 
-<p align="center">
+<p>
   <i>🎯 Open to: AI Engineer · LLM Engineer · AI Product Engineer (Remote / Hybrid)</i><br>
   <i>📧 swapnil.env@gmail.com &nbsp;·&nbsp; 📍 Dhaka, Bangladesh</i>
 </p>
