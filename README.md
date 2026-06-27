@@ -1,24 +1,81 @@
-# Hi 👋, I'm Shafi Swapnil
+<h1>Hi 👋, I'm Shafi Swapnil</h1>
+<h3>AI Product Engineer · Technical Operations Lead · Built EdTech for 1M+ Users</h3>
 
-### A Passonate Web Developer
-
-- 🔭 I'm currently working on **End-to-end Classroom LMS for an ed-tech platform**
-
-- 🌱 I'm currently learning **C++, Python, Go**
-
-- 👯 I'm looking to collaborate on **Open Source Project**
-
-- 📫 How to reach me **swapnil.env@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/shafiswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shafiswapnil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shafiswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiswapnil" height="30" width="40" /></a>
-<a href="https://twitter.com/shafiswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafiswapnil" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/shafiswapnil/">
+    <img src="https://img.shields.io/badge/LinkedIn-shafiswapnil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:swapnil.env@gmail.com">
+    <img src="https://img.shields.io/badge/Email-swapnil.env@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shafiswapnil.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-shafiswapnil.github.io-6366F1?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u4209b3a)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+### 🧭 Who I Am
 
+I'm a **Technical Operations Lead & AI Product Engineer** based in **Dhaka, Bangladesh**.
+
+- 🏗️ Contributed from **day 0 → 1M+ users** at ACS Future School — 22K–40K students per live batch
+- ⚙️ Running **CoderVai** end-to-end: tech · product · marketing · HR · finance — solo operator
+- 🤖 Building with **OpenAI API · Anthropic Claude · LangChain · FastAPI** for AI product development
+- ☁️ Production infra: **AWS EC2/S3 · GCP · Cloudflare · BunnyCDN** — full CDN pipeline ownership
+- 🎯 Target: **AI Engineer / LLM Engineer role** within 6 months
+
+---
+
+### 🔨 Currently Building
+
+📄 RAG Pipeline          LangChain + FAISS + FastAPI → Document Q&A system
+
+🧮 NeetCode 150          Systematic algo depth: Arrays → Trees → DP
+
+📚 DataCamp AI Track     ML → Deep Learning → LLM Applications → Certification
+
+---
+
+### 🛠️ Tech Stack
+
+**AI & LLM**  
+`OpenAI API` `Anthropic Claude` `LangChain` `Prompt Engineering` `RAG` `Cursor`
+
+**Cloud & Infrastructure**  
+`AWS EC2/S3` `GCP` `Cloudflare` `BunnyCDN` `Linux Admin` `Docker`
+
+**Languages**  
+`Python` `JavaScript` `TypeScript` `SQL` `Bash` `HTML/CSS`
+
+**Product & Tools**  
+`Figma` `OBS Studio` `Streamyard` `Git/GitHub` `Jira` `WordPress`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [ImageShield](https://github.com/shafiswapnil/ImageShield) | Protect images from AI training — visible watermarks & EXIF metadata injection | TypeScript |
+| [task-reporting-app](https://github.com/shafiswapnil/task-reporting-app) | Full-stack daily/weekly/monthly task reporting & analytics for teams | TypeScript |
+| [Contest-Pulse-Discord-Bot](https://github.com/shafiswapnil/Contest-Pulse-Discord-Bot) | Auto-reminder Discord bot for Codeforces & AtCoder contests | JavaScript |
+| [CodeForces-Rank-Tracker](https://github.com/shafiswapnil/CodeForces-Rank-Tracker) | CLI tool to track Codeforces rating changes across multiple handles | Python |
+
+> 🚧 **Coming soon:** RAG Document Q&A · AI Tutor Bot · LLM-powered competitive analysis tool
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiswapnil&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafiswapnil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="30%" />
+</p>
+
+---
+
+<p align="center">
+  <i>🎯 Open to: AI Engineer · LLM Engineer · AI Product Engineer (Remote / Hybrid)</i><br>
+  <i>📧 swapnil.env@gmail.com &nbsp;·&nbsp; 📍 Dhaka, Bangladesh</i>
+</p>
