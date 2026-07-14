@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/shafiswapnil/">
     <img src="https://img.shields.io/badge/LinkedIn-shafiswapnil-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:swapnil.env@gmail.com">
-    <img src="https://img.shields.io/badge/Email-swapnil.env@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:shafiswap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shafiswap@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://shafiswapnil.github.io">
     <img src="https://img.shields.io/badge/Portfolio-shafiswapnil.github.io-6366F1?style=flat&logo=github&logoColor=white" />
@@ -77,5 +77,5 @@ I'm a **Technical Operations Lead & AI Product Engineer** based in **Dhaka, Bang
 
 <p>
   <i>🎯 Open to: AI Engineer · LLM Engineer · AI Product Engineer (Remote / Hybrid)</i><br>
-  <i>📧 swapnil.env@gmail.com &nbsp;·&nbsp; 📍 Dhaka, Bangladesh</i>
+  <i>📧 shafiswap@gmail.com &nbsp;·&nbsp; 📍 Dhaka, Bangladesh</i>
 </p>
